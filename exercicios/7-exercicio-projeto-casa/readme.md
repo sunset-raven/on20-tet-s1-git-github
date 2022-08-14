@@ -1,13 +1,13 @@
 # Exercício de contribuição em um projeto usando fork
 
-- Para realizar esse projeto, precisamos fazer um fork do repositório da {reprograma} [on20-tet-s1-gi-github](https://github.com/reprograma/on20-tet-s1-git-github). 
+- Para realizar esse projeto, precisamos fazer um fork do repositório da {reprograma} [on20-tet-s1-git-github](https://github.com/reprograma/on20-tet-s1-git-github). 
 
 
 ### Instruções
 * Após o fork, entrar no repositório que fica na aba de "Meus Repositórios" na sua conta do Githun
 * Clonar o repositório para seu computador
-* Entrar na pasta 8-exercicio-projeto-casa e siga as instruções a seguir.
-* Adicionar link para imagem, link para seu github e o seu nome em uma `<div>`, seguindo o modelo com as informações da Paula Allemand.
+* Entrar na pasta 7-exercicio-projeto-casa e siga as instruções a seguir.
+* Adicionar link para imagem, link para seu github e o seu nome em uma `<div>`, seguindo o modelo com as informações da Thiele Nunes.
 	* Use o link do seu github para colocar no ***href*** na tag `<a>`. (Ex: https://github.com/reprograma)
 	* Use o link da imagem do seu avatar no github para colocar no ***src*** da tag `<img>`. Clique com o botão direito sobre a imagem do seu perfil no github e copie o endereço da imagem. (Ex: https://avatars2.githubusercontent.com/u/41296983?s=460&u=d69e452fb89212415aca4769125d7efb7fc52727&v=4)
     * Exemplo de como capturar o link da imagem:
