@@ -1,5 +1,5 @@
-### Contribuindo com um projeto da Reprograma
-- Entrar o repositório do projeto da Reprograma: https://github.com/reprograma/On20_TodasEmTech_Git
+### Contribuindo com um projeto da Professora
+- Entrar o repositório do projeto que clonamos: Instagraminho
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
 - Na sua máquina: abrir o Git Bash clicando com o botão direito do mouse de dentro da pasta onde deseja clonar o repositório (*Git Bash here*), ou navegando pelo Git Bash até a pasta desejada (`cd nomeDaPasta`).
 - `git clone https://github.com/thielenunes/instagraminho-reprograma`
