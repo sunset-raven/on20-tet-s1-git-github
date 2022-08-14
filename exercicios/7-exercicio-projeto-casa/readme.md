@@ -1,7 +1,7 @@
 # Exercício de contribuição em um projeto usando fork
 
 - Para realizar esse projeto, precisamos fazer um fork do repositório da {reprograma} [on20-tet-s1-gi-github](https://github.com/reprograma/on20-tet-s1-git-github). 
-Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-TodasEmTech_Git/blob/86ae350c27a4760f5fddf86b006cfcfa3f6b7e6c/conteudo/sobre-fork.md)
+
 
 ### Instruções
 * Após o fork, entrar no repositório que fica na aba de "Meus Repositórios" na sua conta do Githun
