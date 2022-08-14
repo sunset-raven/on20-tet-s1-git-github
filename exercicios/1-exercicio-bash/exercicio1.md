@@ -17,5 +17,6 @@ Seguem abaixo algumas ações básicas para nos habituarmos com o terminal Git B
 - `cd`: change directory, entrar em uma pasta. Precisa indicar o nome da pasta que quer entrar. Ex: `cd nomePasta`
 - `cd ..`: voltar uma pasta acima
 - `echo`: *echo*, eco que cria um arquivo. Precisa indicar o conteúdo e o nome do arquivo. Ex: `echo "oi" > index.html` *Nos utilizamos o Touch*
+- `touch`: *touch*, comando que cria um arquivo. Precisa indicar o conteúdo e o nome do arquivo. Ex: `touch index.html` 
 - `rm`: *remove*, deleta um arquivo. Precisa indicar o nome do arquivo. Ex: `rm index.html`
 - `rm -r` ou `rm --recursive`: deleta uma pasta. Precisa indicar o nome da pasta e deletar recursivamente. Ex: `rm -r nomeDaPasta`
