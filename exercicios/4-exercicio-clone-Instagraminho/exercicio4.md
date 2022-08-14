@@ -1,5 +1,5 @@
-### Clonando repositórios das aulas anteriores
-- Entrar o GitHub da Thiele:https://github.com/thielenunes/instagraminho-reprograma
+### Clonando repositórios da aula
+- Entrar o GitHub da Reprograma: https://github.com/reprograma/on20-tet-s1-git-github/tree/main/exercicios/7-exercicio-projeto-casa
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
 - Na sua máquina: abrir o Git Bash clicando com o botão direito do mouse de dentro da pasta onde deseja clonar o repositório (*Git Bash here*), ou navegando pelo Git Bash até a pasta desejada (`cd nomeDaPasta`).
 - `git clone https://github.com/thielenunes/instagraminho-reprograma`
