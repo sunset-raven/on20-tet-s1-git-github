@@ -55,5 +55,3 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
 * Verificar se as alterações foram atualizadas no seu repositório
 
 
-* Ir para a aba ***Pull requests*** do repositório da aula 
-* Criar novo pull request ***New pull request***, selecionando a opção **compare across forks** da branch do seu repositório para a branch com seu nome do repositório da reprograma
