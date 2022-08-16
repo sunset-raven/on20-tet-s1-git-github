@@ -27,7 +27,7 @@
 - Salve a alteração e verifique no navegador se está correto.
 - Volte para o Git Bash dentro dessa pasta.
 - `git status`: verifique o status do repositório atual.
-- `git add --all`: adicione todos os arquivos que foram modificados.
+- `git add --all` ou  `git add .` : adicione todos os arquivos que foram modificados.
 - `git commit -m "Mensagem de bom senso"`: adicionando a mensagem do que foi modificado.
 - `git remote -v`: verifique se o endereço do repositório remoto. (Neste caso, o endereço do remoto chamado `origin` já veio quando você fez o clone do repositório).
 - `git push origin ex-aula-seuNome`: envie para o repositório remoto as alterações da branch `ex-aula-seuNome`.
