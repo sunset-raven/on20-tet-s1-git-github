@@ -1,4 +1,4 @@
-### Atualizando seu repositório local
+### Atualizando seu repositório local (NÃO FAÇAM)
 - Entrar no Git Bash dentro da pasta que deseja atualizar.
 - `git remote -v`: verificar se o endereço remoto está apontando para o repositório remoto correto.
 - `git checkout main`: voltando para branch `main`.
