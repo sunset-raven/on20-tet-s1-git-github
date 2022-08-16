@@ -26,7 +26,6 @@
     ```
 - Salve a alteração e verifique no navegador se está correto.
 - Volte para o Git Bash dentro dessa pasta.
-- `git diff`: verique o que foi modificado.
 - `git status`: verifique o status do repositório atual.
 - `git add --all`: adicione todos os arquivos que foram modificados.
 - `git commit -m "Mensagem de bom senso"`: adicionando a mensagem do que foi modificado.
