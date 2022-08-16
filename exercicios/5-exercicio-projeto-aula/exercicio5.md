@@ -32,9 +32,4 @@
 - `git remote -v`: verifique se o endereço do repositório remoto. (Neste caso, o endereço do remoto chamado `origin` já veio quando você fez o clone do repositório).
 - `git push origin ex-aula-seuNome`: envie para o repositório remoto as alterações da branch `ex-aula-seuNome`, para isso enviei o seu github para professora.
 - Verifique no GitHub se sua alteração foi enviada com sucesso. Veja se sua branch está no repositório: https://github.com/thielenunes/instagraminho-reprograma
-- Clicar na aba **Pull requests** do repositório no GitHub.
-- Clicar em **Compare & pull request** e verifique as alterações no código.
-- **base: main <= compare: ex-aula-seuNome**: Criar o **pull request** verificando se está indo da sua branch `ex-aula-seuNome` para a branch main.
-- Solicitar a revisão de código para a professora **itsalle**.
-- Aguardar a aprovação da sua solicitação.
-- A professora fará o **merge** da sua branch `ex-aula-seuNome` para a `main`.
+
