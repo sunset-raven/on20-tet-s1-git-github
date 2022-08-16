@@ -30,7 +30,7 @@
 - `git add --all` ou  `git add .` : adicione todos os arquivos que foram modificados.
 - `git commit -m "Mensagem de bom senso"`: adicionando a mensagem do que foi modificado.
 - `git remote -v`: verifique se o endereço do repositório remoto. (Neste caso, o endereço do remoto chamado `origin` já veio quando você fez o clone do repositório).
-- `git push origin ex-aula-seuNome`: envie para o repositório remoto as alterações da branch `ex-aula-seuNome`.
+- `git push origin ex-aula-seuNome`: envie para o repositório remoto as alterações da branch `ex-aula-seuNome`, para isso enviei o seu github para professora.
 - Verifique no GitHub se sua alteração foi enviada com sucesso. Veja se sua branch está no repositório: https://github.com/thielenunes/instagraminho-reprograma
 - Clicar na aba **Pull requests** do repositório no GitHub.
 - Clicar em **Compare & pull request** e verifique as alterações no código.
