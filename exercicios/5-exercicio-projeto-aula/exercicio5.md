@@ -1,11 +1,13 @@
 ### Contribuindo com um projeto da Professora
+AQUI VOCÊS FIZERAM NO EXERCICIO 4:
 - Entrar o repositório do projeto que clonamos: Instagraminho
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.
 - Na sua máquina: abrir o Git Bash clicando com o botão direito do mouse de dentro da pasta onde deseja clonar o repositório (*Git Bash here*), ou navegando pelo Git Bash até a pasta desejada (`cd nomeDaPasta`).
 - `git clone https://github.com/thielenunes/instagraminho-reprograma`
 - `cd instagraminho-reprograma`: para entrar na pasta.
 - `ls`: para listar o que tem dentro da pasta.
-- `git branch -a`: para listar as branch's que tem nesse projeto.
+
+CONTINUAÇÃO, INICIO DO EXERCICIO 5:
 - `git checkout -b ex-aula-seuNome`: para ir para uma branch nova chamada ex-aula-seuNome.
 - `code .`: para abrir o VSCode nessa pasta.
 - Abrir o arquivo `index.html` da pasta `5-projeto-aula` no seu navegador (Chrome).
